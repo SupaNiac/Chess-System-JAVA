@@ -41,5 +41,12 @@ java application.Program
 
 ## Capturas de tela (GIFS) 📸📹
 
+![Screenshot 1](Screenshots/imagem1.png)
+*Rodando no terminal do gitbash*
 
+## Melhorias e bugs 🔨🧰🪲
+
+- Adicionar uma interface gráfica
+- Resolver o erro de compilação (input ifinito)
+- Resolver bug de tela congelada
 
