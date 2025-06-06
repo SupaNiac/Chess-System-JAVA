@@ -42,6 +42,7 @@ java application.Program
 ## Capturas de tela (GIFS) 📸📹
 
 ![Screenshot 1](Screenshots/imagem1.png)
+
 *Rodando no terminal do gitbash*
 
 ## Melhorias e bugs 🔨🧰🪲
