@@ -19,3 +19,27 @@ Projeto de xadrez desenvolvido com o objetivo de aplicar boas práticas de progr
 - Console interativo (entrada e saída de dados)
 - Sistema de peças com comportamento específico
 - Validação de movimento legais no xadrez
+
+## Como executar o projeto 💻
+
+### Aviso só funciona no terminal do gitbash! ⚠️
+
+Clone este repositório:
+   ```bash
+   git clone https://github.com/SupaNiac/Chess-System-JAVA.git
+  ```
+Vá até a pasta do projeto dentro ou fora do terminal e digite:
+ 
+```bash
+   javac -d bin src/application/Program.java
+```
+E depois:
+
+```bash
+java -cp bin application.Program
+```
+
+## Capturas de tela (GIFS) 📸📹
+
+
+
