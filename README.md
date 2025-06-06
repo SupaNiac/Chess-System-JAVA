@@ -28,15 +28,15 @@ Clone este repositório:
    ```bash
    git clone https://github.com/SupaNiac/Chess-System-JAVA.git
   ```
-Vá até a pasta do projeto dentro ou fora do terminal e digite:
+Vá até a pasta do projeto dentro ou fora do terminal e digite o seguinte para compilar:
  
 ```bash
-   javac -d bin src/application/Program.java
+   javac application/*.java boardgame/*.java chess/*.java
 ```
-E depois:
+E depois para rodar:
 
 ```bash
-java -cp bin application.Program
+java application.Program
 ```
 
 ## Capturas de tela (GIFS) 📸📹
