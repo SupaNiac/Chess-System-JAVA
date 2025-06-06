@@ -39,7 +39,7 @@ E depois para rodar:
 java application.Program
 ```
 
-## Capturas de tela (GIFS) 📸📹
+## Capturas de tela (PRINT) 📸
 
 ![Screenshot 1](Screenshots/imagem1.png)
 
